@@ -138,6 +138,9 @@ img {
   max-height: 100%;
   max-width: 100%;
   border-radius: 1rem;
+  object-fit: cover;
+  object-position: center;
+  border: 0.5px solid lightgray;
 }
 
 .event.left h4 {

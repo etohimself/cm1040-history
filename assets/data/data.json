@@ -3,41 +3,136 @@
     "page": "index",
     "nav": "Internet",
     "route": "/",
-    "title": "Welcome to First Page",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribussit voluptatem dolore quis dignissimos! Cum, reiciendis distinctio hiceum corrupti atque! Nobis cumque eum aliquam! Numquam esse laborumquaerat voluptates! Lorem ipsum dolor sit amet consectetur adipisicingelit. Fugit consectetur ipsa, vel quo cumque similique illum quasimodi dignissimos, deleniti eos expedita! Autem voluptate evenietlibero expedita molestias totam fuga! Lorem ipsum dolor, sit ametconsectetur adipisicing elit. Rem at corporis velit ab quae animialiquam mollitia possimus ipsum non, consequatur, eaque pariaturinventore sed voluptas incidunt tempora. Tenetur, quam!",
+    "title": "History of Internet in Turkey",
+    "description": "The journey of internet in Turkey started with the collaboration of The Scientific and Technological Research Council of Turkey (TÜBİTAK) and Middle East Technical University (METU) in 1986. The official date for the birth of internet in Turkey is considered April 12th 1993, when TR-NET project was launched.",
     "events": [
       {
-        "date": "January 2024",
-        "text": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
-        "image": "/image/testImg.jpg"
+        "date": "1986",
+        "text": "First example of a internet in Turkey is a project named ULAKNET, aiming to establish a national academic network in 1986 conducted by The Scientific and Technological Research Council of Turkey (TÜBİTAK).",
+        "image": "/image/h1.png"
       },
       {
-        "date": "February 2024",
-        "text": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
-        "image": "/image/testImg.jpg"
+        "date": "1987",
+        "text": "In 1987, a network name Turkish Network of Universities and Research Institutes (TÜVAKA)  was established. The first Wide Area Network (WAN) was established from Middle East Technical University (METU) in Turkey to BITNET (Because It’s Time Network) in USA and EARN (European Academic and Research Network) in Europe.",
+        "image": "/image/h2.jpg"
       },
       {
-        "date": "March 2024",
-        "text": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
-        "image": "/image/testImg.jpg"
+        "date": "1993",
+        "text": "On April 12th 1993, as a part of TR-NET project, after an experimental connection using X.25 with Holland, the official first internet connection was established between Middle East Technical University (METU) in Turkey and National Science Foundation Network (NSFNet) in United States. This first internet connection had a speed of 64kbps.",
+        "image": "/image/h3.jpg"
+      },
+      {
+        "date": "1995",
+        "text": "In 1995, TR-NET project doubled it’s connection speed and reached 128kbps.",
+        "image": "/image/h4.jpg"
+      },
+      {
+        "date": "1996",
+        "text": "In August 1996, TURNET was announced as the first public internet service provider (ISP) in August 1996.  The National Academic Network and Information Centre (ULAKBIM) was founded as an institute of TÜBİTAK. The internet speed reached 512kbps and the first internet news website was announced named Milliyet Gazette. Web mail services such as Hotmail became operational.",
+        "image": "/image/h5.jpg"
+      },
+      {
+        "date": "1997",
+        "text": "In 1997, number of ISP’s reached 80, while the number of internet users reached 300.000. First examples of social media and e-commerce emerged named Gittigidiyor, Sahibinden, Ekşisözlük, Siberalem and Donanımhaber. Banks started providing information to their customers online.",
+        "image": "/image/h6.jpg"
+      },
+      {
+        "date": "2001",
+        "text": "In 2001, GPRS was announced for mobile devices by Turkcell, allowing a connection speed of 56–114kbit. Percentage of households owning an internet connection reached %6.5.",
+        "image": "/image/h7.jpg"
+      },
+      {
+        "date": "2002",
+        "text": "In 2002, Knight Online, an online MMORPG was announced and quickly became the most popular MMORPG played across internet cafes in Turkey.",
+        "image": "/image/h8.jpg"
+      },
+      {
+        "date": "2003",
+        "text": "In 2003, ADSL was introduced, allowing up to 1mbit connection. Number of internet users exceeded 8 million.",
+        "image": "/image/h9.jpg"
+      },
+      {
+        "date": "2004",
+        "text": "In 2004, Yemeksepeti reached 1000 orders per day.",
+        "image": "/image/h10.jpg"
+      },
+      {
+        "date": "2005",
+        "text": "In 2005, the number of internet users reached 12 million.",
+        "image": "/image/h11.jpg"
+      },
+      {
+        "date": "2006",
+        "text": "In 2006, the number of Turkish websites reached 100 million.",
+        "image": "/image/h12.png"
+      },
+      {
+        "date": "2007",
+        "text": "In 2007, fiber-optic infrastructure for public users was announced, allowing up to 100mbit internet connection.",
+        "image": "/image/h13.jpg"
+      },
+      {
+        "date": "2008",
+        "text": "In 2008, E-Devlet, a website allowing citizens to manage their governmental processes was announced. MSN Messenger reached 28 million users in Turkey.",
+        "image": "/image/h14.png"
+      },
+      {
+        "date": "2009",
+        "text": "In 2009, 3G for mobile devices, allowing up to 2mbps connections.",
+        "image": "/image/h15.jpg"
+      },
+      {
+        "date": "2013",
+        "text": "In 2013, first ride-hailing app Bitaksi was announced.",
+        "image": "/image/h16.jpg"
+      },
+      {
+        "date": "2015",
+        "text": "In 2015, 4G/LTE was introduced for mobile devices, allowing up to 100mbit connections. ",
+        "image": "/image/h17.jpg"
+      },
+      {
+        "date": "2016",
+        "text": "In April 1st 2016, 4.5G was introduced, allowing up to 300mbps connections.",
+        "image": "/image/h18.jpg"
       }
     ],
     "resources": [
       {
-        "name": "Test Resource",
-        "link": "https://example.com/someResource.pdf"
+        "name": "BITNET - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/BITNET"
       },
       {
-        "name": "Test Resource",
-        "link": "https://example.com/someResource.pdf"
+        "name": "Internet and It’s Progression in Turkey - Journal of Communication Faculty",
+        "link": "https://dergipark.org.tr/en/download/article-file/212779"
       },
       {
-        "name": "Test Resource",
-        "link": "https://example.com/someResource.pdf"
+        "name": "Internet in Turkey - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Internet_in_Turkey"
       },
       {
-        "name": "Test Resource",
-        "link": "https://example.com/someResource.pdf"
+        "name": "EARN - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/European_Academic_and_Research_Network"
+      },
+      {
+        "name": "Brief History of Internet in Turkey - Yeni Safak News Agency",
+        "link": "https://www.yenisafak.com/bilgi/turkiyede-internetin-kisa-tarihi-3404209"
+      },
+      {
+        "name": "Internet and Internet’s Development in Turkey - Ahmet PARLAK",
+        "link": "http://www.hasanbalik.com/projeler/bitirme/39.pdf"
+      },
+      {
+        "name": "History of Internet in Turkey - Fikri Takip",
+        "link": "https://fikritakip.co/turkiyenin-internet-tarihi/"
+      },
+      {
+        "name": "Official Announcement of 4G in Turkey - Onedio Web News",
+        "link": "https://onedio.com/haber/turkiye-nin-4g-ye-resmi-gecis-tarihi-belli-oldu-434951"
+      },
+      {
+        "name": "Turkey and Social Media - Dağhan Irak, Onur Yazıcıoğlu",
+        "link": "https://www.researchgate.net/publication/262010815_Turkiye_ve_sosyal_medya"
       }
     ]
   },
@@ -45,41 +140,66 @@
     "page": "services",
     "nav": "Services",
     "route": "/services",
-    "title": "Welcome to Second Page",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribussit voluptatem dolore quis dignissimos! Cum, reiciendis distinctio hiceum corrupti atque! Nobis cumque eum aliquam! Numquam esse laborumquaerat voluptates! Lorem ipsum dolor sit amet consectetur adipisicingelit. Fugit consectetur ipsa, vel quo cumque similique illum quasimodi dignissimos, deleniti eos expedita! Autem voluptate evenietlibero expedita molestias totam fuga! Lorem ipsum dolor, sit ametconsectetur adipisicing elit. Rem at corporis velit ab quae animialiquam mollitia possimus ipsum non, consequatur, eaque pariaturinventore sed voluptas incidunt tempora. Tenetur, quam!",
+    "title": "Emergence of Web Services",
+    "description": "Following the popularization of internet use with the rise of local ISP's, some of the largest web sites in the history of Turkey were announced. To this day, many of these platforms such as Ekşisözlük, Sahibinden, Donanımhaber have a notable marketshare and are considered pioneers.",
     "events": [
       {
-        "date": "January 2024",
-        "text": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
-        "image": "/image/testImg.jpg"
+        "date": "1996",
+        "text": "Ekşi Sözlük was launched in 1996 as a web platform where users share their personal opinions on topics freely. To this day, Ekşi Sözlük is considered one of the largest online communities in Turkey.",
+        "image": "/image/s1.jpg"
       },
       {
-        "date": "February 2024",
-        "text": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
-        "image": "/image/testImg.jpg"
+        "date": "1998",
+        "text": "Hepsiburada was launched in 1998 as an e-commerce marketplace,covering a large variety of products including appliences, electronics and even car parts. Hepsiburada is still one of the largest and most popular e-commerce platforms in Turkey.",
+        "image": "/image/s2.jpg"
       },
       {
-        "date": "March 2024",
-        "text": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
-        "image": "/image/testImg.jpg"
+        "date": "1998",
+        "text": "Mynet was launched in 1998 as a comprehensive web portal. Mynet offered news, entertainment and community featues, shaping the early culture of internet in Turkey.",
+        "image": "/image/s3.jpg"
+      },
+      {
+        "date": "2000",
+        "text": "Sahibinden was launched in 2000 as the Turkey's biggest online marketplace for automobiles, real estate, electronics and more. Sahibinden is still the largest online marketplace almost every Turkish citizen uses to buy and sell real estate and automobiles online.",
+        "image": "/image/s4.png"
+      },
+      {
+        "date": "2001",
+        "text": "Gittigidyor was launched in 2001 as the second largest e-commerce website in Turkey. Gittigidiyor was purchased by Ebay in 2011 and operated until 2022",
+        "image": "/image/s5.png"
+      },
+      {
+        "date": "2001",
+        "text": "Yemeksepeti was launched in 2001 as a web platform where users can order food online. Yemeksepeti is considered a pioneer in online food-ordering services in Turkey and is still the leading service.",
+        "image": "/image/s6.jpg"
+      },
+      {
+        "date": "2004",
+        "text": "Knight Online released in 2004 in Turkey, has become the most popular MMORPG in Turkey. In 2004 to 2008, almost every internet cafe had multiple Knight Online players. ",
+        "image": "/image/h8.jpg"
+      },
+      {
+        "date": "2008",
+        "text": "E-Devlet was launched in 2008 as an official website where citizens can perform governmental tasks and retrieve formal documents.",
+        "image": "/image/h14.png"
       }
     ],
     "resources": [
       {
-        "name": "Test Resource",
-        "link": "https://example.com/someResource.pdf"
+        "name": "Ekşi Sözlük - Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Ek%C5%9Fi_S%C3%B6zl%C3%BCk"
       },
       {
-        "name": "Test Resource",
-        "link": "https://example.com/someResource.pdf"
+        "name": "History of Yemeksepeti - Yemeksepeti.com",
+        "link": "https://kurumsal.yemeksepeti.com/hakkimizda/"
       },
       {
-        "name": "Test Resource",
-        "link": "https://example.com/someResource.pdf"
+        "name": "Knight Online World MMORPG - Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Knight_Online"
       },
       {
-        "name": "Test Resource",
-        "link": "https://example.com/someResource.pdf"
+        "name": "Turkey and Social Media - Dağhan Irak, Onur Yazıcıoğlu",
+        "link": "https://www.researchgate.net/publication/262010815_Turkiye_ve_sosyal_medya"
       }
     ]
   },
@@ -87,41 +207,50 @@
     "page": "legals",
     "nav": "Legals",
     "route": "/legals",
-    "title": "Welcome to Last Page",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribussit voluptatem dolore quis dignissimos! Cum, reiciendis distinctio hiceum corrupti atque! Nobis cumque eum aliquam! Numquam esse laborumquaerat voluptates! Lorem ipsum dolor sit amet consectetur adipisicingelit. Fugit consectetur ipsa, vel quo cumque similique illum quasimodi dignissimos, deleniti eos expedita! Autem voluptate evenietlibero expedita molestias totam fuga! Lorem ipsum dolor, sit ametconsectetur adipisicing elit. Rem at corporis velit ab quae animialiquam mollitia possimus ipsum non, consequatur, eaque pariaturinventore sed voluptas incidunt tempora. Tenetur, quam!",
+    "title": "Evolution of Legal Frameworks and Notable Violations",
+    "description": "With the introduction of emerging internet technologies, legal frameworks became a necessity.Electronic communication law dictated how the infrastructure was established. Later, KVKK law aligning with GDPR emphasized the importance of data privacy and security.",
     "events": [
       {
-        "date": "January 2024",
-        "text": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
-        "image": "/image/testImg.jpg"
+        "date": "2008",
+        "text": "Electronic Communications Law was enacted in 2008, established the modern regulatory framework for telecommunications and internet services. Any device that uses electronic communication including Wireless communication must comply with this law.",
+        "image": "/image/l1.jpg"
       },
       {
-        "date": "February 2024",
-        "text": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
-        "image": "/image/testImg.jpg"
+        "date": "2016",
+        "text": "KVKK (Turkey's Data Protection Law) was enacted in 2016. Aligning closely with EU's GDPR, KVKK introduces strict rules for how organizations handle personal data, requiring user consent, having data security measures, breach notifications, and giving individuals rights over their data. KVKK has significantly raised the standards for privacy protection, with a dedicated authority to enforce penalties for non-compliance.",
+        "image": "/image/l2.jpg"
       },
       {
-        "date": "March 2024",
-        "text": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
-        "image": "/image/testImg.jpg"
+        "date": "E-Devlet Data Breach",
+        "text": "In 2016, Turkey suffered one of the largest data breaches in its history. Personal information of nearly 50 million citizens where leaked onlnie including addresses, name and surnames, family relationships and birth dates.",
+        "image": "/image/l3.png"
+      },
+      {
+        "date": "Yemeksepeti Data Breach",
+        "text": "Turkey's leading food delivery platform Yemeksepeti faced a major cyberattack in 2021. Nearly 21 million users' data including addresses were leaked online. KVKK imposed notable fines on the company.",
+        "image": "/image/l4.jpg"
       }
     ],
     "resources": [
       {
-        "name": "Test Resource",
-        "link": "https://example.com/someResource.pdf"
+        "name": "Personal Data Protection Law (KVKK) - Official Gazette of Turkish Republic",
+        "link": "https://www.resmigazete.gov.tr/eskiler/2016/04/20160407-8.pdf"
       },
       {
-        "name": "Test Resource",
-        "link": "https://example.com/someResource.pdf"
+        "name": "Electronic Communication Law - Official Gazette of Turkish Republic",
+        "link": "https://www.resmigazete.gov.tr/eskiler/2008/11/20081110m1-3.htm"
       },
       {
-        "name": "Test Resource",
-        "link": "https://example.com/someResource.pdf"
+        "name": "Turkey Citizenship Database Leak - Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/2016_MERN%C4%B0S_s%C4%B1z%C4%B1nt%C4%B1s%C4%B1"
       },
       {
-        "name": "Test Resource",
-        "link": "https://example.com/someResource.pdf"
+        "name": "Yemeksepeti User Data Leak - KVKK Official Website",
+        "link": "https://www.kvkk.gov.tr/Icerik/7168/2021-1324"
+      },
+      {
+        "name": "History of KVKK - KVKK Official Website",
+        "link": "https://www.kvkk.gov.tr/Icerik/2075/Kurumsal-Tarihce"
       }
     ]
   }

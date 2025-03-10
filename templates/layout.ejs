@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style/style.css" />
+    <title>History of Internet - Home</title>
+  </head>
+  <body>
+    <div class="blurryBg"></div>
+    <nav>
+      <div class="Logo">🌐History of Internet in Turkey</div>
+      <div class="navLinks">
+        <% data.forEach(eachPage => { %>
+          <a href="<%=eachPage.route %>" class="<%= (eachPage.page == currentPage) ? 'active' : ''%>"><%=eachPage.nav%></a>
+        <% }); %>
+      </div>
+    </nav>
+    <div class="wrapper">
+      <main>
+        <h1><%= pageData.title %></h1>
+        <p><%= pageData.description %></p>
+        <div class="eventContainer">
+          <% pageData.events.forEach((eachEvent, i, allEvents) => { 
+            let leftOrRight = (i % 2 === 0) ? "left" : "right";
+            let isLast = (i === allEvents.length - 1) ? "last" : "";
+       %>
+       <div class="event <%= leftOrRight %> <%= isLast %>">
+         <div class="textArea">
+           <h4><%= eachEvent.date %></h4>
+           <p><%= eachEvent.text %></p>
+         </div>
+         <div class="timeLine">
+           <div class="timeBall"></div>
+         </div>
+         <div class="imgArea">
+           <img src="<%= eachEvent.image %>" alt="Event image" />
+         </div>
+       </div>
+       <% }); %>
+        </div>
+
+          <div class="resources">
+            <h2>Resources</h2>
+            <ul>
+              <% pageData.resources.forEach(eachResource => { %>
+                <li>
+                  <%= eachResource.name %>
+                  <a href="<%= eachResource.link %>"
+                    ><%= eachResource.link %></a
+                  >
+                </li>
+              <% }); %>
+            </ul>
+          </div>
+        </div>
+      </main>
+    </div>
+  </body>
+</html>

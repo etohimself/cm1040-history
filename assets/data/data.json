@@ -1,0 +1,128 @@
+[
+  {
+    "page": "index",
+    "nav": "Internet",
+    "route": "/",
+    "title": "Welcome to First Page",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribussit voluptatem dolore quis dignissimos! Cum, reiciendis distinctio hiceum corrupti atque! Nobis cumque eum aliquam! Numquam esse laborumquaerat voluptates! Lorem ipsum dolor sit amet consectetur adipisicingelit. Fugit consectetur ipsa, vel quo cumque similique illum quasimodi dignissimos, deleniti eos expedita! Autem voluptate evenietlibero expedita molestias totam fuga! Lorem ipsum dolor, sit ametconsectetur adipisicing elit. Rem at corporis velit ab quae animialiquam mollitia possimus ipsum non, consequatur, eaque pariaturinventore sed voluptas incidunt tempora. Tenetur, quam!",
+    "events": [
+      {
+        "date": "January 2024",
+        "text": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
+        "image": "/image/testImg.jpg"
+      },
+      {
+        "date": "February 2024",
+        "text": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
+        "image": "/image/testImg.jpg"
+      },
+      {
+        "date": "March 2024",
+        "text": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
+        "image": "/image/testImg.jpg"
+      }
+    ],
+    "resources": [
+      {
+        "name": "Test Resource",
+        "link": "https://example.com/someResource.pdf"
+      },
+      {
+        "name": "Test Resource",
+        "link": "https://example.com/someResource.pdf"
+      },
+      {
+        "name": "Test Resource",
+        "link": "https://example.com/someResource.pdf"
+      },
+      {
+        "name": "Test Resource",
+        "link": "https://example.com/someResource.pdf"
+      }
+    ]
+  },
+  {
+    "page": "services",
+    "nav": "Services",
+    "route": "/services",
+    "title": "Welcome to Second Page",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribussit voluptatem dolore quis dignissimos! Cum, reiciendis distinctio hiceum corrupti atque! Nobis cumque eum aliquam! Numquam esse laborumquaerat voluptates! Lorem ipsum dolor sit amet consectetur adipisicingelit. Fugit consectetur ipsa, vel quo cumque similique illum quasimodi dignissimos, deleniti eos expedita! Autem voluptate evenietlibero expedita molestias totam fuga! Lorem ipsum dolor, sit ametconsectetur adipisicing elit. Rem at corporis velit ab quae animialiquam mollitia possimus ipsum non, consequatur, eaque pariaturinventore sed voluptas incidunt tempora. Tenetur, quam!",
+    "events": [
+      {
+        "date": "January 2024",
+        "text": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
+        "image": "/image/testImg.jpg"
+      },
+      {
+        "date": "February 2024",
+        "text": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
+        "image": "/image/testImg.jpg"
+      },
+      {
+        "date": "March 2024",
+        "text": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
+        "image": "/image/testImg.jpg"
+      }
+    ],
+    "resources": [
+      {
+        "name": "Test Resource",
+        "link": "https://example.com/someResource.pdf"
+      },
+      {
+        "name": "Test Resource",
+        "link": "https://example.com/someResource.pdf"
+      },
+      {
+        "name": "Test Resource",
+        "link": "https://example.com/someResource.pdf"
+      },
+      {
+        "name": "Test Resource",
+        "link": "https://example.com/someResource.pdf"
+      }
+    ]
+  },
+  {
+    "page": "legals",
+    "nav": "Legals",
+    "route": "/legals",
+    "title": "Welcome to Last Page",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribussit voluptatem dolore quis dignissimos! Cum, reiciendis distinctio hiceum corrupti atque! Nobis cumque eum aliquam! Numquam esse laborumquaerat voluptates! Lorem ipsum dolor sit amet consectetur adipisicingelit. Fugit consectetur ipsa, vel quo cumque similique illum quasimodi dignissimos, deleniti eos expedita! Autem voluptate evenietlibero expedita molestias totam fuga! Lorem ipsum dolor, sit ametconsectetur adipisicing elit. Rem at corporis velit ab quae animialiquam mollitia possimus ipsum non, consequatur, eaque pariaturinventore sed voluptas incidunt tempora. Tenetur, quam!",
+    "events": [
+      {
+        "date": "January 2024",
+        "text": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
+        "image": "/image/testImg.jpg"
+      },
+      {
+        "date": "February 2024",
+        "text": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
+        "image": "/image/testImg.jpg"
+      },
+      {
+        "date": "March 2024",
+        "text": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
+        "image": "/image/testImg.jpg"
+      }
+    ],
+    "resources": [
+      {
+        "name": "Test Resource",
+        "link": "https://example.com/someResource.pdf"
+      },
+      {
+        "name": "Test Resource",
+        "link": "https://example.com/someResource.pdf"
+      },
+      {
+        "name": "Test Resource",
+        "link": "https://example.com/someResource.pdf"
+      },
+      {
+        "name": "Test Resource",
+        "link": "https://example.com/someResource.pdf"
+      }
+    ]
+  }
+]
